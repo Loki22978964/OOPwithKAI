@@ -16,7 +16,7 @@ public class Program
             Console.WriteLine($"myArray[{i}] = {myArray[i]}");
         }
 
-        // Перевірка меж
-        myArray[10] = 100; // Виведе "Out of range"
+        
+        myArray[10] = 100; // Out of range
     }
 }

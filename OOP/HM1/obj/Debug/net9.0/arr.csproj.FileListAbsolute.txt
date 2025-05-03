@@ -1,0 +1,15 @@
+D:\OOP\OOPwithKAI-1\OOP\HM1\bin\Debug\net9.0\arr.exe
+D:\OOP\OOPwithKAI-1\OOP\HM1\bin\Debug\net9.0\arr.deps.json
+D:\OOP\OOPwithKAI-1\OOP\HM1\bin\Debug\net9.0\arr.runtimeconfig.json
+D:\OOP\OOPwithKAI-1\OOP\HM1\bin\Debug\net9.0\arr.dll
+D:\OOP\OOPwithKAI-1\OOP\HM1\bin\Debug\net9.0\arr.pdb
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.AssemblyInfoInputs.cache
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.AssemblyInfo.cs
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.csproj.CoreCompileInputs.cache
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.sourcelink.json
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.dll
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\refint\arr.dll
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.pdb
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\arr.genruntimeconfig.cache
+D:\OOP\OOPwithKAI-1\OOP\HM1\obj\Debug\net9.0\ref\arr.dll
